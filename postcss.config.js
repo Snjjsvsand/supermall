@@ -13,7 +13,7 @@ module.exports = {
             minPixelValue:1,
             mediaQuery:false,
             //忽略（不转换为vw）的文件
-            exclude:[/TabBar/]
+            // exclude:[/TabBar/]
         }
     }
 }
