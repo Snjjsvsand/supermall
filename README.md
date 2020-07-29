@@ -1,5 +1,6 @@
 # supermall
 
+### 这是一个前后端分离的 Vue电商实战项目
 ## Project setup
 ```
 npm install
